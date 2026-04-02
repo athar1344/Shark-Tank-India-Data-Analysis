@@ -44,7 +44,18 @@ Power BI dashboard includes:
 * Location-based insights
 
 ---
+## 📊 Dashboard Preview
 
+### Overview
+![Overview](overview.png)
+
+### Shark Analysis
+![Shark](shark.png)
+
+### Geography
+![Geography](geo.png)
+
+---
 ## 🛠️ Tools Used
 
 * Python (Pandas, Matplotlib, Seaborn)
